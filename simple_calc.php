@@ -1,3 +1,5 @@
+//Command-line PHP application that functions as a basic calculator.
+//Users can input two numbers and perform addition, subtraction, division, and multiplication operations.
 <?php
   echo "Welcome to Simple Calculator in PHP!\n";
   echo "Please Enter the frist Number: \n";
